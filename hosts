@@ -4254,10 +4254,61 @@
 0.0.0.0 s.baidu7653.com
 0.0.0.0 s.chebse.com
 0.0.0.0 ssp.ad.xiaomi.com
-0.0.0.0		a.mp.uc.cn
-0.0.0.0		vs6.gzcm.u3.ucweb.com
-0.0.0.0		huichuan.sm.cn
 
+#小米浏览器下载去除广告
+0.0.0.0		api.ad.xiaomi.com
+0.0.0.0		etl.xlmc.sandai.net
+0.0.0.0		api.browser.miui.com
+0.0.0.0		nav.browser.miui.com
+0.0.0.0		api.tw06.xlmc.sec.miui.com
+#小米日历
+0.0.0.0		adv.sec.miui.com
+0.0.0.0		weatherapi.market.xiaomi.com
+0.0.0.0		sdkconfig.ad.xiaomi.com
+0.0.0.0		abtest.mistat.xiaomi.com
+0.0.0.0		f1.market.mi-img.com
+0.0.0.0		f2.market.mi-img.com
+0.0.0.0		f3.market.mi-img.com
+0.0.0.0		f4.market.mi-img.com
+0.0.0.0		f5.market.mi-img.com
+
+0.0.0.0		f1.market.xiaomi.com
+0.0.0.0		f2.market.xiaomi.com
+0.0.0.0		f3.market.xiaomi.com
+0.0.0.0		f4.market.xiaomi.com
+0.0.0.0		f5.market.xiaomi.com
+
+
+
+
+
+
+#UC浏览器下载劫持
+0.0.0.0		vs1.gzcm.u3.ucweb.com
+0.0.0.0		vs2.gzcm.u3.ucweb.com
+0.0.0.0		vs3.gzcm.u3.ucweb.com
+0.0.0.0		vs4.gzcm.u3.ucweb.com
+0.0.0.0		vs5.gzcm.u3.ucweb.com
+0.0.0.0		vs6.gzcm.u3.ucweb.com
+0.0.0.0		vs7.gzcm.u3.ucweb.com
+0.0.0.0		vs8.gzcm.u3.ucweb.com
+0.0.0.0		vs9.gzcm.u3.ucweb.com
+0.0.0.0		vs10.gzcm.u3.ucweb.com
+0.0.0.0		vs11.gzcm.u3.ucweb.com
+0.0.0.0		vs12.gzcm.u3.ucweb.com
+0.0.0.0		vs13.gzcm.u3.ucweb.com
+0.0.0.0		vs14.gzcm.u3.ucweb.com
+0.0.0.0		vs15.gzcm.u3.ucweb.com
+0.0.0.0		vs16.gzcm.u3.ucweb.com
+0.0.0.0		vs17.gzcm.u3.ucweb.com
+0.0.0.0		vs18.gzcm.u3.ucweb.com
+0.0.0.0		vs19.gzcm.u3.ucweb.com
+0.0.0.0		vs20.gzcm.u3.ucweb.com
+0.0.0.0		patriot.cs.pp.cn
+0.0.0.0		server.m.pp.cn
+0.0.0.0		log.cs.pp.cn
+0.0.0.0		ucan.25pp.com
+0.0.0.0		alissl.ucdl.pp.uc.cn
 
 
 
@@ -4283,6 +4334,3 @@
 203.210.7.41	i3.pixiv.net
 203.210.7.41	i4.pixiv.net
 203.210.7.41	public-img-comic.pximg.net
-
-
-203.210.7.41	htcui.com
