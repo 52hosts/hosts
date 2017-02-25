@@ -1,13 +1,13 @@
 
-#À´×Ô×îĞÂhosts[¹È¸è]		ÈººÅ£º341859837
-#À´×Ô×îĞÂhosts[¹È¸è]		ÈººÅ£º341859837
-#À´×Ô×îĞÂhosts[¹È¸è]		ÈººÅ£º341859837
-#À´×Ô×îĞÂhosts[¹È¸è]		ÈººÅ£º341859837
-#À´×Ô×îĞÂhosts[¹È¸è]		ÈººÅ£º341859837
-#À´×Ô×îĞÂhosts[¹È¸è]		ÈººÅ£º341859837
-#À´×Ô×îĞÂhosts[¹È¸è]		ÈººÅ£º341859837
-#À´×Ô×îĞÂhosts[¹È¸è]		ÈººÅ£º341859837
-# ÑÇÂíÑ·¹«Ë¾ÆìÏÂÔÆ¼ÆËã·şÎñÆ½Ì¨ ¿ªÊ¼
+#æ¥è‡ªæœ€æ–°hosts[è°·æ­Œ]		ç¾¤å·ï¼š341859837
+#æ¥è‡ªæœ€æ–°hosts[è°·æ­Œ]		ç¾¤å·ï¼š341859837
+#æ¥è‡ªæœ€æ–°hosts[è°·æ­Œ]		ç¾¤å·ï¼š341859837
+#æ¥è‡ªæœ€æ–°hosts[è°·æ­Œ]		ç¾¤å·ï¼š341859837
+#æ¥è‡ªæœ€æ–°hosts[è°·æ­Œ]		ç¾¤å·ï¼š341859837
+#æ¥è‡ªæœ€æ–°hosts[è°·æ­Œ]		ç¾¤å·ï¼š341859837
+#æ¥è‡ªæœ€æ–°hosts[è°·æ­Œ]		ç¾¤å·ï¼š341859837
+#æ¥è‡ªæœ€æ–°hosts[è°·æ­Œ]		ç¾¤å·ï¼š341859837
+# äºšé©¬é€Šå…¬å¸æ——ä¸‹äº‘è®¡ç®—æœåŠ¡å¹³å° å¼€å§‹
 202.171.252.103	ap-northeast-1.console.aws.amazon.com
 202.171.252.103	ap-southeast-1.console.aws.amazon.com
 202.171.252.103	ap-southeast-2.console.aws.amazon.com
@@ -30,7 +30,7 @@
 202.171.252.103	us-west-2.console.aws.amazon.com
 202.171.252.103	github-cloud.s3.amazonaws.com
 202.171.252.103	github-com.s3.amazonaws.com
-# ÑÇÂíÑ·¹«Ë¾ÆìÏÂÔÆ¼ÆËã·şÎñÆ½Ì¨ ½áÊø
+# äºšé©¬é€Šå…¬å¸æ——ä¸‹äº‘è®¡ç®—æœåŠ¡å¹³å° ç»“æŸ
 
 # Archive Start
 202.171.252.103	archive.org
@@ -46,14 +46,14 @@
 121.254.200.133	zhTW.patch.battle.net
 # Battle.NET End
 
-# Box.comÍøÅÌ ¿ªÊ¼
+# Box.comç½‘ç›˜ å¼€å§‹
 74.112.184.70	app.box.com
 74.112.184.90	box.com
 74.112.184.85	m.box.com
 104.218.203.34	support.box.com
 74.112.184.85	www.box.com
 74.112.184.80	www.box.net
-# Box.comÍøÅÌ ½áÊø
+# Box.comç½‘ç›˜ ç»“æŸ
 
 # BundleStars Start
 23.253.146.21	bundlestars.com
@@ -61,7 +61,7 @@
 185.12.83.2	support.bundlestars.com
 # BundleStars End
 
-# DuckDuckGoÊÇÒ»¸ö»¥ÁªÍøËÑÑ°ÒıÇæ£¬³ĞÅµ²»¼à¿Ø¡¢²»¼ÇÂ¼Ê¹ÓÃÕßµÄËÑÑ°ÄÚÈİ¡£
+# DuckDuckGoæ˜¯ä¸€ä¸ªäº’è”ç½‘æœå¯»å¼•æ“ï¼Œæ‰¿è¯ºä¸ç›‘æ§ã€ä¸è®°å½•ä½¿ç”¨è€…çš„æœå¯»å†…å®¹ã€‚
 46.51.216.186	duckduckgo.com
 46.51.216.186	www.duckduckgo.com
 46.51.216.186	ac.duckduckgo.com
@@ -70,7 +70,7 @@
 96.45.83.209	help.duckduckgo.com
 # DuckDuckGo End
 
-# FacebookÁ³Êé ¿ªÊ¼
+# Facebookè„¸ä¹¦ å¼€å§‹
 #31.13.95.17
 #45.64.40.4
 157.240.7.35	fb.me
@@ -187,7 +187,7 @@
 192.0.78.12	instantarticles.fb.com
 192.0.66.2	messengerplatform.fb.com
 199.201.64.67	threatexchange.fb.com
-# FacebookÁ³Êé ½áÊø
+# Facebookè„¸ä¹¦ ç»“æŸ
 157.240.7.35		l.facebook.com
 157.240.0.17		messenger.com
 157.240.0.17		www.messenger.com
@@ -205,7 +205,7 @@
 
 # Steam end
 
-# TwitterÍÆÌØ ¿ªÊ¼
+# Twitteræ¨ç‰¹ å¼€å§‹
 104.244.43.144			static.ads-twitter.com
 0.0.0.0			t.tellapart.com
 104.244.43.5	v.cdn.vine.co
@@ -298,9 +298,9 @@
 38.99.79.105    yfrog.com
 38.99.79.105    www.yfrog.com
 0.0.0.0 syndication.twitter.com
-# TwitterÍÆÌØ ½áÊø
+# Twitteræ¨ç‰¹ ç»“æŸ
 
-# Gmail¹È¸èÓÊÏä ¿ªÊ¼
+# Gmailè°·æ­Œé‚®ç®± å¼€å§‹
 202.171.252.103	chatenabled.mail.google.com
 202.171.252.103	filetransferenabled.mail.google.com
 202.171.252.103	gmail.com
@@ -313,9 +313,9 @@
 202.171.252.103	mail.google.com
 202.171.252.103	www.gmail.com
 202.171.252.103	mail-settings.google.com
-# Gmail¹È¸èÓÊÏä ½áÊø
+# Gmailè°·æ­Œé‚®ç®± ç»“æŸ
 
-# Google¹È¸è ¿ªÊ¼
+# Googleè°·æ­Œ å¼€å§‹
 
 0.0.0.0		2542116.fls.doubleclick.net
 0.0.0.0		ad.doubleclick.net
@@ -3224,7 +3224,7 @@
 37.0.88.36	blog.startpage.com
 # Startpage End
 
-# VimeoÊÇÒ»¸ö¸ßÇåÊÓÆµ²¥¿ÍÍøÕ¾ ¿ªÊ¼
+# Vimeoæ˜¯ä¸€ä¸ªé«˜æ¸…è§†é¢‘æ’­å®¢ç½‘ç«™ å¼€å§‹
 104.156.85.217	vimeo.com
 104.156.85.217	www.vimeo.com
 104.156.85.217	player.vimeo.com
@@ -3238,16 +3238,16 @@
 202.171.252.103	 	i.vimeocdn.com
 202.171.252.103	 	06-lvl3-hls.vimeocdn.com
 202.171.252.103	 	11-lvl3-hls.vimeocdn.com
-# VimeoÊÇÒ»¸ö¸ßÇåÊÓÆµ²¥¿ÍÍøÕ¾ ½áÊø
+# Vimeoæ˜¯ä¸€ä¸ªé«˜æ¸…è§†é¢‘æ’­å®¢ç½‘ç«™ ç»“æŸ
 
-# WikipediaÎ¬»ù°Ù¿Æ ¿ªÊ¼
+# Wikipediaç»´åŸºç™¾ç§‘ å¼€å§‹
 198.35.26.96	zh.wikipedia.org
 198.35.26.96	zh.m.wikipedia.org
 198.35.26.96	wuu.wikipedia.org
 198.35.26.96	zh-yue.wikipedia.org
-# WikipediaÎ¬»ù°Ù¿Æ ½áÊø
+# Wikipediaç»´åŸºç™¾ç§‘ ç»“æŸ
 
-# WordPress²©¿Í ¿ªÊ¼
+# WordPressåšå®¢ å¼€å§‹
 192.0.78.17		wordpress.com
 192.0.80.240	www.gravatar.com
 192.0.79.32	en.wordpress.com
@@ -3283,7 +3283,7 @@
 192.0.78.12	zh.wordpress.com
 192.0.78.12	zh-cn.wordpress.com
 192.0.78.12	zh-sg.wordpress.com
-# WordPress²©¿Í ½áÊø
+# WordPressåšå®¢ ç»“æŸ
 
 # XDA Start
 68.232.44.229	cdn.www.xda-developers.com
@@ -3307,7 +3307,7 @@
 151.101.52.134	xdaportal.disqus.com
 # XDA End
 
-# Disqus ¿ªÊ¼   DisqusÊÇÒ»¼ÒÊ¹ÓÃÉç½»ÍøÂçĞÎÊ½£¬ÏòÍøÂçÉçÇøÌá¹©ÍøÕ¾ÁôÑÔ·şÎñµÄ¹«Ë¾¡£
+# Disqus å¼€å§‹   Disqusæ˜¯ä¸€å®¶ä½¿ç”¨ç¤¾äº¤ç½‘ç»œå½¢å¼ï¼Œå‘ç½‘ç»œç¤¾åŒºæä¾›ç½‘ç«™ç•™è¨€æœåŠ¡çš„å…¬å¸ã€‚
 151.101.100.134	disqus.com
 151.101.100.134	www.disqus.com
 151.101.100.134	content.disqus.com
@@ -3322,7 +3322,7 @@
 23.65.183.218	about.disqus.com
 23.65.183.218	blog.disqus.com
 23.65.183.218	publishers.disqus.com
-# Disqus ½áÊø
+# Disqus ç»“æŸ
 
 # Yahoo Start
 192.0.79.32	code.flickr.com
@@ -3429,7 +3429,7 @@
 103.245.222.101	cdn-images-2.medium.com
 # Medium end
 
-# TumblrÌÀ²»ÈÈ ¿ªÊ¼
+# Tumblræ±¤ä¸çƒ­ å¼€å§‹
 202.171.252.103	t.appsflyer.com
 
 202.171.252.103	link.email.dynect.net
@@ -3491,7 +3491,7 @@
 #52.84.189.141	vt.tumblr.com
 202.171.252.103	vt.media.tumblr.com
 202.171.252.103	secure.static.tumblr.com
-# TumblrÌÀ²»ÈÈ ½áÊø
+# Tumblræ±¤ä¸çƒ­ ç»“æŸ
 
 # Smartdnsproxy start
 103.28.248.96	www.smartdnsproxy.com
@@ -3873,7 +3873,7 @@
 202.171.252.103  logger-03.vty.dailymotion.com
 #dailymotion
 
-#web.telegram.org/ÍøÒ³°ætelegram
+#web.telegram.org/ç½‘é¡µç‰ˆtelegram
 149.154.167.118		telegram.me 
 149.154.167.99		telegram.org
 149.154.167.99		my.telegram.org
@@ -3893,7 +3893,7 @@
 149.154.175.16		pluto.web.telegram.org
 149.154.175.16		pluto-1.web.telegram.org
 
-#Á¬ÎÒline
+#è¿æˆ‘line
 203.104.138.138		line.me
 23.66.239.246		w.line.me
 203.104.131.64		media.line.me
@@ -3999,7 +3999,7 @@
 
 
 
-#Á÷Ã¥µ¼º½ËøÖ÷Ò³ÆÁ±Î£¨Çë²»ÒªÊ¹ÓÃ360ä¯ÀÀÆ÷·ñÔòhosts»áÎŞĞ§£©
+#æµæ°“å¯¼èˆªé”ä¸»é¡µå±è”½ï¼ˆè¯·ä¸è¦ä½¿ç”¨360æµè§ˆå™¨å¦åˆ™hostsä¼šæ— æ•ˆï¼‰
 0.0.0.0		ie.n502.com
 0.0.0.0		www.n502.com
 0.0.0.0		hao.dh033.com
@@ -4008,9 +4008,9 @@
 0.0.0.0		www.ie8886.ren
 0.0.0.0		www.bxmv.com
 
-#qq¿Õ¼äÕÕÆ¬ÓÒÏÂ½Ç¹ã¸æ
+#qqç©ºé—´ç…§ç‰‡å³ä¸‹è§’å¹¿å‘Š
 0.0.0.0		i.gdt.qq.com
-#±ùµãÎÄ¿âÏÂÔØÈí¼ş£¨°Ù¶ÈÈí¼ş£©
+#å†°ç‚¹æ–‡åº“ä¸‹è½½è½¯ä»¶ï¼ˆç™¾åº¦è½¯ä»¶ï¼‰
 0.0.0.0		j.br.baidu.com
 0.0.0.0		scloud-dlsw.br.baidu.com
 0.0.0.0		bingdian.dorapp.com
@@ -4018,7 +4018,7 @@
 0.0.0.0		speedxbu.baidu.com
 0.0.0.0		jifendownload.2345.cn
 
-#123du.cc 123¶Á
+#123du.cc 123è¯»
 0.0.0.0		nl.wodhid.com
 0.0.0.0		s.taobaly.cn
 
@@ -4047,7 +4047,7 @@
 120.237.243.6	zxfuli.yy991.com
 121.10.172.186	www.dyaihao.com
 
-#163ÒôÀÖÂıµÄ¼Ó
+#163éŸ³ä¹æ…¢çš„åŠ 
 #112.25.82.12		s4.music.126.net
 #112.25.82.12		s3.music.126.net
 #113.107.57.41		s2.music.126.net
@@ -4067,7 +4067,7 @@
 218.93.127.136		cdn.pcbeta.static.inimc.com
 218.93.127.136		cdn.pcbeta.attachment.inimc.com
 
-#ÍµÀ´µÄÈ¥¹ã¸æ
+#å·æ¥çš„å»å¹¿å‘Š
 #www.mgtv.com
 0.0.0.0 bs.da.hunantv.com
 0.0.0.0 pc.da.mgtv.com
@@ -4255,13 +4255,13 @@
 0.0.0.0 s.chebse.com
 0.0.0.0 ssp.ad.xiaomi.com
 
-#Ğ¡Ã×ä¯ÀÀÆ÷ÏÂÔØÈ¥³ı¹ã¸æ
+#å°ç±³æµè§ˆå™¨ä¸‹è½½å»é™¤å¹¿å‘Š
 0.0.0.0		api.ad.xiaomi.com
 0.0.0.0		etl.xlmc.sandai.net
 0.0.0.0		api.browser.miui.com
 0.0.0.0		nav.browser.miui.com
 0.0.0.0		api.tw06.xlmc.sec.miui.com
-#Ğ¡Ã×ÈÕÀú
+#å°ç±³æ—¥å†
 0.0.0.0		adv.sec.miui.com
 0.0.0.0		weatherapi.market.xiaomi.com
 0.0.0.0		sdkconfig.ad.xiaomi.com
@@ -4283,7 +4283,7 @@
 
 
 
-#UCä¯ÀÀÆ÷ÏÂÔØ½Ù³Ö
+#UCæµè§ˆå™¨ä¸‹è½½åŠ«æŒ
 0.0.0.0		vs1.gzcm.u3.ucweb.com
 0.0.0.0		vs2.gzcm.u3.ucweb.com
 0.0.0.0		vs3.gzcm.u3.ucweb.com
@@ -4312,14 +4312,14 @@
 
 
 
-#À´×Ô×îĞÂhosts[¹È¸è]		ÈººÅ£º341859837
-#À´×Ô×îĞÂhosts[¹È¸è]		ÈººÅ£º341859837
-#À´×Ô×îĞÂhosts[¹È¸è]		ÈººÅ£º341859837
-#À´×Ô×îĞÂhosts[¹È¸è]		ÈººÅ£º341859837
-#À´×Ô×îĞÂhosts[¹È¸è]		ÈººÅ£º341859837
-#À´×Ô×îĞÂhosts[¹È¸è]		ÈººÅ£º341859837
-#À´×Ô×îĞÂhosts[¹È¸è]		ÈººÅ£º341859837
-#À´×Ô×îĞÂhosts[¹È¸è]		ÈººÅ£º341859837
+#æ¥è‡ªæœ€æ–°hosts[è°·æ­Œ]		ç¾¤å·ï¼š341859837
+#æ¥è‡ªæœ€æ–°hosts[è°·æ­Œ]		ç¾¤å·ï¼š341859837
+#æ¥è‡ªæœ€æ–°hosts[è°·æ­Œ]		ç¾¤å·ï¼š341859837
+#æ¥è‡ªæœ€æ–°hosts[è°·æ­Œ]		ç¾¤å·ï¼š341859837
+#æ¥è‡ªæœ€æ–°hosts[è°·æ­Œ]		ç¾¤å·ï¼š341859837
+#æ¥è‡ªæœ€æ–°hosts[è°·æ­Œ]		ç¾¤å·ï¼š341859837
+#æ¥è‡ªæœ€æ–°hosts[è°·æ­Œ]		ç¾¤å·ï¼š341859837
+#æ¥è‡ªæœ€æ–°hosts[è°·æ­Œ]		ç¾¤å·ï¼š341859837
 
 
 
@@ -4334,3 +4334,63 @@
 202.171.252.103	i3.pixiv.net
 202.171.252.103	i4.pixiv.net
 202.171.252.103	public-img-comic.pximg.net
+
+
+
+#è‹±é›„è”ç›Ÿå‰æ‰‹ç¦æ­¢ç™»é™†
+#ç”µä¿¡ä¸€è‰¾æ¬§å°¼äºš	
+0.0.0.0   hn1-login.lol.qq.com
+#ç½‘é€šä¸€æ¯”å°”å‰æ²ƒç‰¹	
+0.0.0.0   wt1-login.lol.qq.com
+#ç”µä¿¡äºŒç¥–å®‰	0.0.0.0   
+hn2-login.lol.qq.com
+#ç”µä¿¡ä¸‰è¯ºå…‹è¨æ–¯	
+0.0.0.0   hn3-login.lol.qq.com
+#ç”µä¿¡å››ç­å¾·å°”åŸ	
+0.0.0.0   hn4-login.lol.qq.com
+#ç½‘é€šäºŒå¾·ç›è¥¿äºš	
+0.0.0.0   wt2-login.lol.qq.com
+#ç”µä¿¡äº”çš®å°”ç‰¹æ²ƒå¤«	
+0.0.0.0   hn5-login.lol.qq.com
+#ç”µä¿¡å…­æˆ˜äº‰å­¦é™¢	
+0.0.0.0   hn6-login.lol.qq.com
+#ç½‘é€šä¸‰å¼—é›·å°”å“å¾·	
+0.0.0.0   wt3-login.lol.qq.com
+#ç”µä¿¡ä¸ƒå·¨ç¥å³°	
+0.0.0.0   hn7-login.lol.qq.com
+#ç”µä¿¡å…«é›·ç‘Ÿå®ˆå¤‡	
+0.0.0.0   hn8-login.lol.qq.com
+#ç½‘é€šå››æ— ç•å…ˆé”‹	
+0.0.0.0   wt4-login.lol.qq.com
+#ç”µä¿¡åäºŒé’¢é“çƒˆé˜³	
+0.0.0.0   hn12-login.lol.qq.com
+#ç”µä¿¡ä¹è£å†³ä¹‹åœ°	
+0.0.0.0   hn9-login.lol.qq.com
+#ç”µä¿¡åé»‘è‰²ç«ç‘°	
+0.0.0.0   hn10-login.lol.qq.com
+#ç”µä¿¡åä¸€æš—å½±å²›	
+0.0.0.0   hn11-login.lol.qq.com
+#ç½‘é€šäº”æ•ç‘ç›	
+0.0.0.0   wt5-login.lol.qq.com
+#ç”µä¿¡åå››å‡è¡¡æ•™æ´¾	
+0.0.0.0   hn14-login.lol.qq.com
+#ç”µä¿¡åä¸‰æ°´æ™¶ä¹‹ç—•	
+0.0.0.0   hn13-login.lol.qq.com
+#ç½‘é€šå…­æ‰­æ›²ä¸›æ—	
+0.0.0.0   wt6-login.lol.qq.com
+#æ•™è‚²ç½‘æ•™è‚²ç½‘ä¸“åŒº	
+0.0.0.0   edu1-login.lol.qq.com
+#ç”µä¿¡åäº”å½±æµ	
+0.0.0.0   hn15-login.lol.qq.com
+#ç”µä¿¡åå…­å®ˆæœ›ä¹‹æµ·	
+0.0.0.0   hn16-login.lol.qq.com
+#ç”µä¿¡åä¸ƒå¾æœä¹‹æµ·	
+0.0.0.0   hn17-login.lol.qq.com
+#ç”µä¿¡åå…«å¡æ‹‰æ›¼è¾¾	
+0.0.0.0   hn18-login.lol.qq.com
+#ç”µä¿¡åä¹çš®åŸè­¦å¤‡	
+0.0.0.0   hn19-login.lol.qq.com
+#ç½‘é€šä¸ƒå·¨é¾™ä¹‹å·¢	
+0.0.0.0   wt7-login.lol.qq.com
+#å…¨ç½‘ç»œå¤§åŒºä¸€ç”·çˆµé¢†åŸŸ	
+0.0.0.0   bgp1-login.lol.qq.com
