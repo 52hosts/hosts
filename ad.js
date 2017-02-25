@@ -33,7 +33,7 @@ function FindProxyForURL(url, host){
     var hosts = [
 //=========域名Start=========
 //<ad.js_test>
-"sc.cdce.cf",
+"www.google.com",
 //<youku>
 "ad.api.3g.youku.com",
 "statis.api.3g.youku.com",
