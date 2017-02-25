@@ -38,7 +38,7 @@ function FindProxyForURL(url, host){
 "lh3.googleusercontent.com",
 "www.gstatic.com",
 "ogs.google.com",
-"www.google.com",
+"www.google.com.hk",
 "www.google.com",
 "www.google.com",
 "www.google.com",
