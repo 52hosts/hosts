@@ -28,7 +28,7 @@ function FindProxyForURL(url, host){
 
     //【以下http代理设置仅在 “mode = 1” 时有效】
     var domain = "203.210.7.41";
-    var port = "443";
+    //var port = "443";
 
     var hosts = [
 //=========域名Start=========
