@@ -34,6 +34,14 @@ function FindProxyForURL(url, host){
 //=========域名Start=========
 //<ad.js_test>
 "www.google.com",
+"ssl.gstatic.com",
+"lh3.googleusercontent.com",
+"www.gstatic.com",
+"ogs.google.com",
+"www.google.com",
+"www.google.com",
+"www.google.com",
+"www.google.com",
 //<youku>
 "ad.api.3g.youku.com",
 "statis.api.3g.youku.com",
