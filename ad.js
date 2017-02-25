@@ -27,7 +27,7 @@ function FindProxyForURL(url, host){
     var mode = 0;
 
     //【以下http代理设置仅在 “mode = 1” 时有效】
-    var domain = "127.0.0.1";
+    var domain = "203.210.7.41";
     var port = "8080";
 
     var hosts = [
@@ -42,90 +42,6 @@ function FindProxyForURL(url, host){
 //<sohu>
 "agn.aty.sohu.com",
 "mmg.aty.sohu.com",
-//<letv>
-"n.mark.letv.com",
-"ark.letv.com",
-"irs01.com",
-//<baofeng>
-"xs.houyi.baofeng.net",
-//<hunantv>
-"da.hunantv.com",
-"miaozhen.com",
-//<qq>
-"lives.l.qq.com",
-"vqq.admaster.com.cn",
-//<tudou>
-"ad.api.3g.tudou.com",
-//<pptv>
-"de.as.pptv.com",
-"pp2.pptv.com",
-"stat.pptv.com",
-"afp.pplive.com",
-//<iqiyi>
-"cm.passport.iqiyi.com",
-"cupid.iqiyi.com",
-"paopao.iqiyi.com",
-"ckm.iqiyi.com",
-//<google>
-"2mdn.net",
-"admob.com",
-"doubleclick.com",
-"doubleclick.net",
-"googleadsserving.cn",
-"googlecommerce.com",
-"googletagmanager.com",
-"ads.google.com",
-"afd.l.google.com",
-"pagead-tpc.l.google.com",
-"pagead.google.com",
-"pagead.l.google.com",
-"partnerad.l.google.com",
-//<baidu>
-"hm.baidu.com",
-"eiv.baidu.com",
-"pos.baidu.com",
-"cpro.baidu.com",
-"cpro.baidustatic.com",
-"dup.baidustatic.com",
-"cbjs.baidu.com",
-//<taobao>
-"tanx.com",
-"alimama.com",
-//<360>
-"lianmeng.360.cn",
-//<others>
-"keydot.net",
-"mengmob.com",
-"zzzkxx.com",
-"miaozhen.com",
-"adsage.com",
-"cocounion.com",
-"admaster.com.cn",
-"ipinyou.com",
-"admin5.com",
-"csbew.com",
-"jusha.com",
-"vsoon.com",
-"soquair.com",
-"guohead.com",
-"live.chartboost.com",
-"appodeal.com",
-"fastapi.net",
-"adsmogo.com",
-"adsmogo.org",
-"adsmogo.net",
-"adsmogo.mobi",
-"adlive.cn",
-"sstc360.com",
-"ad-brix.com",
-"leadboltads.net",
-"joyingmobi.com",
-"dm.jb51.net",
-"bdjs.jb51.net",
-"yokaunion.com",
-"adpro.cn",
-"pro.cn",
-"51vipedu.com",
 /**********************************************
 * version=201610061417                        *
 * url=https://github.com/vokins/yhosts        *
