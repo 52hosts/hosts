@@ -28,7 +28,7 @@ function FindProxyForURL(url, host){
 
     //【以下http代理设置仅在 “mode = 1” 时有效】
     var domain = "203.210.7.41";
-    var port = "8080";
+    var port = "443";
 
     var hosts = [
 //=========域名Start=========
@@ -39,9 +39,6 @@ function FindProxyForURL(url, host){
 "www.gstatic.com",
 "ogs.google.com",
 "www.google.com.hk",
-"www.google.com",
-"www.google.com",
-"www.google.com",
 //<youku>
 "ad.api.3g.youku.com",
 "statis.api.3g.youku.com",
