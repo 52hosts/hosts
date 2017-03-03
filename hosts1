@@ -1,3 +1,25 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+
 
 #来自最新hosts[谷歌]		群号：341859837
 #来自最新hosts[谷歌]		群号：341859837
@@ -72,6 +94,7 @@
 
 # Facebook脸书 开始
 #31.13.95.17
+#31.13.95.35
 #45.64.40.4
 157.240.7.35	fb.me
 157.240.7.35	facebook.com
@@ -2648,7 +2671,7 @@
 # Google:gcm End
 
 # Google:A-GPS Start
-64.233.171.192	supl.google.com
+202.171.252.103	supl.google.com
 # Google:A-GPS End
 
 # Google CN Start
@@ -3844,27 +3867,27 @@
 202.171.252.103  proxy-76.sg1.dailymotion.com
 202.171.252.103  proxy-77.sg1.dailymotion.com
 202.171.252.103  proxy-78.sg1.dailymotion.com
-203.210.7.42  proxy-79.sg2.dailymotion.com
-203.210.7.43  proxy-80.sg3.dailymotion.com
-203.210.7.44  proxy-81.sg4.dailymotion.com
-203.210.7.45  proxy-82.sg5.dailymotion.com
-203.210.7.46  proxy-83.sg6.dailymotion.com
-203.210.7.47  proxy-84.sg7.dailymotion.com
-203.210.7.48  proxy-85.sg8.dailymotion.com
-203.210.7.49  proxy-86.sg9.dailymotion.com
-203.210.7.50  proxy-87.sg10.dailymotion.com
-203.210.7.51  proxy-88.sg11.dailymotion.com
-203.210.7.52  proxy-89.sg12.dailymotion.com
-203.210.7.53  proxy-90.sg13.dailymotion.com
-203.210.7.54  proxy-91.sg14.dailymotion.com
-203.210.7.55  proxy-92.sg15.dailymotion.com
-203.210.7.56  proxy-93.sg16.dailymotion.com
-203.210.7.57  proxy-94.sg17.dailymotion.com
-203.210.7.58  proxy-95.sg18.dailymotion.com
-203.210.7.59  proxy-96.sg19.dailymotion.com
-203.210.7.60  proxy-97.sg20.dailymotion.com
-203.210.7.61  proxy-98.sg21.dailymotion.com
-203.210.7.62  proxy-99.sg22.dailymotion.com
+202.171.252.103  proxy-79.sg2.dailymotion.com
+202.171.252.103  proxy-80.sg3.dailymotion.com
+202.171.252.103  proxy-81.sg4.dailymotion.com
+202.171.252.103  proxy-82.sg5.dailymotion.com
+202.171.252.103  proxy-83.sg6.dailymotion.com
+202.171.252.103  proxy-84.sg7.dailymotion.com
+202.171.252.103  proxy-85.sg8.dailymotion.com
+202.171.252.103  proxy-86.sg9.dailymotion.com
+202.171.252.103  proxy-87.sg10.dailymotion.com
+202.171.252.103  proxy-88.sg11.dailymotion.com
+202.171.252.103  proxy-89.sg12.dailymotion.com
+202.171.252.103  proxy-90.sg13.dailymotion.com
+202.171.252.103  proxy-91.sg14.dailymotion.com
+202.171.252.103  proxy-92.sg15.dailymotion.com
+202.171.252.103  proxy-93.sg16.dailymotion.com
+202.171.252.103  proxy-94.sg17.dailymotion.com
+202.171.252.103  proxy-95.sg18.dailymotion.com
+202.171.252.103  proxy-96.sg19.dailymotion.com
+202.171.252.103  proxy-97.sg20.dailymotion.com
+202.171.252.103  proxy-98.sg21.dailymotion.com
+202.171.252.103  proxy-99.sg22.dailymotion.com
 
 
 
@@ -4334,63 +4357,3 @@
 202.171.252.103	i3.pixiv.net
 202.171.252.103	i4.pixiv.net
 202.171.252.103	public-img-comic.pximg.net
-
-
-
-#英雄联盟剁手禁止登陆
-#电信一艾欧尼亚	
-0.0.0.0   hn1-login.lol.qq.com
-#网通一比尔吉沃特	
-0.0.0.0   wt1-login.lol.qq.com
-#电信二祖安	0.0.0.0   
-hn2-login.lol.qq.com
-#电信三诺克萨斯	
-0.0.0.0   hn3-login.lol.qq.com
-#电信四班德尔城	
-0.0.0.0   hn4-login.lol.qq.com
-#网通二德玛西亚	
-0.0.0.0   wt2-login.lol.qq.com
-#电信五皮尔特沃夫	
-0.0.0.0   hn5-login.lol.qq.com
-#电信六战争学院	
-0.0.0.0   hn6-login.lol.qq.com
-#网通三弗雷尔卓德	
-0.0.0.0   wt3-login.lol.qq.com
-#电信七巨神峰	
-0.0.0.0   hn7-login.lol.qq.com
-#电信八雷瑟守备	
-0.0.0.0   hn8-login.lol.qq.com
-#网通四无畏先锋	
-0.0.0.0   wt4-login.lol.qq.com
-#电信十二钢铁烈阳	
-0.0.0.0   hn12-login.lol.qq.com
-#电信九裁决之地	
-0.0.0.0   hn9-login.lol.qq.com
-#电信十黑色玫瑰	
-0.0.0.0   hn10-login.lol.qq.com
-#电信十一暗影岛	
-0.0.0.0   hn11-login.lol.qq.com
-#网通五恕瑞玛	
-0.0.0.0   wt5-login.lol.qq.com
-#电信十四均衡教派	
-0.0.0.0   hn14-login.lol.qq.com
-#电信十三水晶之痕	
-0.0.0.0   hn13-login.lol.qq.com
-#网通六扭曲丛林	
-0.0.0.0   wt6-login.lol.qq.com
-#教育网教育网专区	
-0.0.0.0   edu1-login.lol.qq.com
-#电信十五影流	
-0.0.0.0   hn15-login.lol.qq.com
-#电信十六守望之海	
-0.0.0.0   hn16-login.lol.qq.com
-#电信十七征服之海	
-0.0.0.0   hn17-login.lol.qq.com
-#电信十八卡拉曼达	
-0.0.0.0   hn18-login.lol.qq.com
-#电信十九皮城警备	
-0.0.0.0   hn19-login.lol.qq.com
-#网通七巨龙之巢	
-0.0.0.0   wt7-login.lol.qq.com
-#全网络大区一男爵领域	
-0.0.0.0   bgp1-login.lol.qq.com
